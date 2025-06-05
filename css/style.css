@@ -75,9 +75,9 @@ a:focus {
 /********** Top Bar CSS ***********/
 /**********************************/
 .top-bar {
-    position: fixed;
-    height: 150px;
-    background: #000000;
+    position: relative;
+    height: 200px;
+    background: green;
 }
 
 .top-bar .logo {
